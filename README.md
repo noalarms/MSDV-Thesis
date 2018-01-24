@@ -28,9 +28,9 @@ This book discusses the challenges and advancements within voice technology. It 
 #### Sedentary Behavior: Physiology, Health Risks and Interventions
 Bergin, Maryanne G., and Maryanne G. Bergin. Sedentary Behavior: Physiology, Health Risks and Interventions. New York: Nova Science Publishers, Inc., 2011.
 
-A habitual sedentary lifestyle is associated with health problems in both physical ailments and mood, from obesity to . It offers a look at scientific literature of this type of lifestyle across different socioeconomic categories and case studies of experiences and mitigation techniques.
+A habitual sedentary lifestyle is associated with health problems in both physical ailments and mood, such as obesity, cardiovascular diseases, and cancer. It offers a look at scientific literature of this type of lifestyle across different socioeconomic categories and case studies of experiences and mitigation techniques.
 
 * What do we measure how sedentary our lifestyles are?
-* What are methods of prevention for a modern lifestyle?
+* What are methods of prevention for a modern lifestyle or ways to shift to a more active lifestyle?
 * How can any methods be motivational enough to foster improved adoption by future generations?
 
