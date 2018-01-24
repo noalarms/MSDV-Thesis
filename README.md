@@ -4,7 +4,7 @@
 
 Pierce, W. David., and Carl D. Cheney. Behavior analysis and learning: a biobehavioral approach. New York, NY: Routledge, 2017.
 
-Bergin, Maryanne G., and Maryanne G. Bergin. Sedentary Behavior: Physiology, Health Risks and Interventions. New York: Nova Science Publishers, Inc., 2011.
+
 
 #### The Internet of Things
 Greengard, Samuel. The internet of things. Cambridge, MA: MIT Press, 2015.
@@ -24,3 +24,13 @@ This book discusses the challenges and advancements within voice technology. It 
 * How do modern voice assistants and recognition technologies currently benefit areas that need it?
 * How will popular mobile use evolve as voice technologies advance and become more sophisticated?
 * What are usability metrics like when measuring user experience of such technologies?
+
+#### Sedentary Behavior: Physiology, Health Risks and Interventions
+Bergin, Maryanne G., and Maryanne G. Bergin. Sedentary Behavior: Physiology, Health Risks and Interventions. New York: Nova Science Publishers, Inc., 2011.
+
+A habitual sedentary lifestyle is associated with health problems in both physical ailments and mood, from obesity to . It offers a look at scientific literature of this type of lifestyle across different socioeconomic categories and case studies of experiences and mitigation techniques.
+
+* What do we measure how sedentary our lifestyles are?
+* What are methods of prevention for a modern lifestyle?
+* How can any methods be motivational enough to foster improved adoption by future generations?
+
