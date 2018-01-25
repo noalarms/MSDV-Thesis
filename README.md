@@ -39,6 +39,13 @@ Thesis: Value, truth and control are basic elements of motivation rather than ju
 #### The Social Life of Achievement
 Long, Nicholas J. *Social life of achievement.* Place of publication not identified: Berghahn Books, 2016.
 
+This book asserts that "achievement" may not be a universal standard but rather perceived through the lens of social constructs.  People are faced with achieving levels of success as citizens or workers, whether it's societal or financial. Studies and essays are offered through anthropologic/ethnographic and historical viewpoints.
+
+Thesis: Achievement and success is culturally influenced and its effects and impacts are profoundly determined by society.
+
+* What does it actually mean to achieve success, whether culturally influenced or otherwise?
+* What alternative measures of success exist and how do they compare?
+* Can people feel fulfilled without having achieved success by society's standards?
 
 #### Sedentary Behavior: Physiology, Health Risks and Interventions
 Bergin, Maryanne G., and Maryanne G. Bergin. *Sedentary Behavior: Physiology, Health Risks and Interventions.* New York: Nova Science Publishers, Inc., 2011.
