@@ -19,7 +19,7 @@ PROBLEM: However, product placement blurs the line between content and marketing
   * Sponsored online content 
 * Product Placement vs Traditional Advertising
 
-RESPONSE: This is especially problematic in music videos where disclosure is not required and what follows is an analysis of gratuitous examples.
+RESPONSE: This may need further awareness from consumers to better distinguish placement and differentiate between "real" content and sponsorship.
 
 * Regulation or lackthereof
 * Consumer attention
