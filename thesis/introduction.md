@@ -19,7 +19,7 @@ PROBLEM: However, product placement blurs the line between content and marketing
   * Sponsored online content 
 * Product Placement vs Traditional Advertising
 
-RESPONSE: This may need further awareness from consumers to better distinguish placement and differentiate between "real" content and sponsorship.
+RESPONSE: There may need to be further awareness for consumers to better distinguish placement and differentiate between "real" content and sponsorship.
 
 * Regulation or lackthereof
 * Consumer attention
